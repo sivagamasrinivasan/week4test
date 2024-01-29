@@ -12,7 +12,6 @@ public class Student
 {
   private  String name; // encapsulation  principle 
    private int age;
-   private int semno;
 
     /**
      * @return the name
