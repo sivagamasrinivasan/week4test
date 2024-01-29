@@ -14,7 +14,8 @@ public class Student
    private int age;
 private int sid;
   private int semno;
-  private int year;
+  private int year; //pull - fetch + merge not safe
+  //safest fetch - changes to local system , check the changes , merge 
     /**
      * @return the name
      */
