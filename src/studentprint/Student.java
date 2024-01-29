@@ -5,7 +5,7 @@
 package studentprint;
 
 /** model the student entity 
- *
+ * 28,jan 2024
  * @author kumar
  */
 public class Student 
