@@ -7,6 +7,7 @@ package studentprint;
 /** model the student entity 
  * 28,jan 2024
  * @author kumar
+ week 4 fetch +merge
  */
 public class Student 
 {
