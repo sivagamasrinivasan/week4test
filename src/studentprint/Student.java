@@ -14,6 +14,7 @@ public class Student
    private int age;
 private int sid;
   private int semno;
+  private int year;
     /**
      * @return the name
      */
